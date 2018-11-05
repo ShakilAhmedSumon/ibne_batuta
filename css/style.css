@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	
+}
+.regi-page{
+	background-color:#2980b9;
+	color:#ffffff;
+}
+.content-area{
+	margin:auto;
+	padding: 30px 0;
+}
+.content-area .form-area form input{
+	margin-top:5px;
+
+}
+.content-area .form-area form input[type="submit"]{
+	cursor:pointer;
+	margin-top:10px;
+}
+.error h4{
+	color:red;
+}

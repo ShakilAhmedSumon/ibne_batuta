@@ -1,0 +1,6 @@
+if you want to add css for new things you want to add
+
+i have created a file "style.css"
+here you can edit and update or type your css
+
+if do not edit main style

@@ -1,0 +1,8 @@
+1. Mission and visison
+2. who we are
+3. motivation behind the project
+4. feature analysis
+5. Architecture design
+6. Walk through the user
+
+https://prezi.com/view/h7L5KKZ3mnS7BEJkclec/
